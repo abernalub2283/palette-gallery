@@ -1,0 +1,26 @@
+body {
+    font-family: georgia, serif;
+    background-color: #1a1423;
+    color: #f5efe0;
+    padding: 24px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #e8c46a;
+}
+
+.palette {
+    margin-bottom: 32px;
+}
+
+.swatch {
+    padding: 12px 16px;
+    margin-bottom: 8px;
+    border-radius: 12px;
+}
+
+.swatch p {
+    margin: 4px 0;
+}
