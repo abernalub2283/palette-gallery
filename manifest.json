@@ -1,0 +1,9 @@
+{
+  "name": "My Palette Gallery",
+  "short_name": "Palettes",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }]
+}
